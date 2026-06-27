@@ -14,3 +14,6 @@ This program prints the Fibonacci series up to the number of terms entered by th
 Enter the number of terms: 10
 0 1 1 2 3 5 8 13 21 34
 ```
+### Terminal Output Screenshot
+
+![Terminal Output](images/fibonacci_output.png)
