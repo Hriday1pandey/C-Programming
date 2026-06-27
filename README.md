@@ -1,7 +1,4 @@
 # C-Programming
-My C programming practice programs.
-
-# C-Programming
 
 ## Fibonacci Series
 
