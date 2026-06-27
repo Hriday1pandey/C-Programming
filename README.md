@@ -1,9 +1,14 @@
 # C-Programming
 My C programming practice programs.
 
+# C-Programming
+
 ## Fibonacci Series
 
-### Output
+### Description
+This program prints the Fibonacci series up to the number of terms entered by the user.
+
+### Sample Output
 
 ```text
 Enter the number of terms: 10
